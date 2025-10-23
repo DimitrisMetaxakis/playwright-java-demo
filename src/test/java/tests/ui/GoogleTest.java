@@ -1,7 +1,7 @@
-package tests;
+package tests.ui;
 
 
-import base.BaseTest;
+import tests.base.BaseTest;
 import businessObjects.GoogleFlows;
 import org.junit.jupiter.api.Test;
 

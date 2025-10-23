@@ -1,6 +1,5 @@
 package enums;
 
-/** Canonical list of keys you press via Playwright (no hardcoded strings). */
 public enum KeyAction {
     ENTER("Enter"),
     ESCAPE("Escape"),

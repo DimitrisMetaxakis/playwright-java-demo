@@ -1,0 +1,12 @@
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/pageObjects/GoogleHomePage.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/support/PlaywrightApiExtension.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/support/AuthorsClient.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/support/ApiFactory.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/pageObjects/BasePage.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/enums/KeyAction.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/businessObjects/GoogleFlows.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/tests/ui/GoogleTest.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/pageObjects/GoogleResultsPage.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/tests/api/ApiTest.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/tests/base/BaseTest.java
+/Users/kyriaki/IdeaProjects/untitled/src/test/java/support/Config.java

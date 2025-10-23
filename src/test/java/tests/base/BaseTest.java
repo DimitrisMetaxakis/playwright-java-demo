@@ -1,4 +1,4 @@
-package base;
+package tests.base;
 
 import com.microsoft.playwright.*;
 import org.junit.jupiter.api.*;
